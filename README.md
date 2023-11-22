@@ -1,4 +1,4 @@
-# Secret-Number
+# Secret-Number-Game
 "Guess the Secret Number" game made in JavaScript.
 
 Wanna give it a try? Click in the link below!
