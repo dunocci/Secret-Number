@@ -77,7 +77,7 @@ while (attempts < maxAttempts && guess != secretNumber) {
 }
 
 // Victory message
-if (attempts < maxAttempts) {
+if (attempts < maxAttempts + 1) {
     alert("Congratulations! You discovered the secret number in just " + attempts + " attempts!");
     alert("You managed to escape from the room.");
 
